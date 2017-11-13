@@ -6,14 +6,15 @@ Movie Trailer Page is a simple script that shows movie posters and links them to
 
 Clone the GitHub repository and use Python to run the script.
 ```
-$ git clone
-$ cd Movie_Project
+$ git clone https://github.com/nicholsont/movie_trailer_project.git
 ```
 
 ## Usage
+How to run Movie Trailer Page
 ```
+$ cd Script
 $ python contents.py
 ```
 
 ## License
-Please refer to the [License]("LICENSE.md")
+Please refer to the [License](LICENSE.md)
