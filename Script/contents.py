@@ -1,5 +1,5 @@
 import media
-from Script import fresh_tomatoes
+import fresh_tomatoes
 
 fifth_element = media.Movie("Fifth Element", "126 min", "PG-13",
                             "http://www.crankycritic.com/archive/posters/5thelement.jpg",

@@ -1,6 +1,7 @@
 # Movie Trailer Page
 
-Movie Trailer Page is a simple script that shows movie posters and links them to their respective trailers. It uses the fresh_tomatoes starter code as a base to create the webpage’s html document.
+Movie Trailer Page is a simple script that shows movie posters and links them to their respective trailers.
+It uses the fresh_tomatoes starter code as a base to create the page's html document.
 
 ## Installation
 
