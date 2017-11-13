@@ -8,9 +8,12 @@ Clone the GitHub repository and use Python to run the script.
 ```
 $ git clone
 $ cd Movie_Project
+```
 
 ## Usage
 ```
 $ python contents.py
+```
 
 ## License
+Please refer to the [License]("LICENSE.md")
